@@ -69,7 +69,7 @@ Dockerized-DotNetAPI-LoadBalanced/
 
 ## Environment Configuration
 
-By default, the API runs in **Production** mode as set in `Program.cs` and project settings.\
+By default, the API runs in **Production** mode as set in `Program.cs` and project settings.
 
 Each instance identifies itself using the container name (`api1`, `api2`) retrieved at runtime.
 
