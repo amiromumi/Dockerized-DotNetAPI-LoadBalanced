@@ -75,7 +75,7 @@ Each instance identifies itself using the container name (`api1`, `api2`) retrie
 
 ## Logs
 
-Currently, logs are printed to the console.\
+Currently, logs are printed to the console.
 You can view them using:
 
 ```sh
