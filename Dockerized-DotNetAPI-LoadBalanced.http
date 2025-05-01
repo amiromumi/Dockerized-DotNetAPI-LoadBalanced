@@ -1,0 +1,6 @@
+@Dockerized_DotNetAPI_LoadBalanced_HostAddress = http://localhost:5019
+
+GET {{Dockerized_DotNetAPI_LoadBalanced_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
